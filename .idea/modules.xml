@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" group="sampler_lib/core" />
+      <module fileurl="file://$PROJECT_DIR$/desktop/desktop.iml" filepath="$PROJECT_DIR$/desktop/desktop.iml" group="sampler_lib/desktop" />
+      <module fileurl="file://$PROJECT_DIR$/sampler_lib.iml" filepath="$PROJECT_DIR$/sampler_lib.iml" group="sampler_lib" />
+    </modules>
+  </component>
+</project>
